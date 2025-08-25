@@ -1,0 +1,36 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nombre": "Juan Pérez",
+      "email": "juan.perez@example.com",
+      "rol": "superadmin",
+      "activo": true,
+      "image": "/image/man1.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "María Gómez",
+      "email": "maria.gomez@example.com",
+      "rol": "admin",
+      "activo": true,
+      "image": "/image/man2.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos López",
+      "email": "carlos.lopez@example.com",
+      "rol": "admin",
+      "activo": false,
+      "image": "/image/man3.jpg"
+    }
+    {
+      "id": 4,
+      "nombre": "Yonaiker Perez",
+      "email": "yonaiker.perez@example.com",
+      "rol": "admin",
+      "activo": true,
+      "image": "/image/man1.jpg"
+    }
+  ]
+}
